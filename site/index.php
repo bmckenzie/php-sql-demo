@@ -63,7 +63,6 @@
 	};
 
 
-
 	const productConfig = {
 		type: "doughnut",
 		data: product_chart_data,

@@ -45,5 +45,5 @@
     $temp_sub_product_array = array($sub_product[0] => $number_of_sub_products_total[0]);
     array_push($sub_product_totals, $temp_sub_product_array);
    }
-   
+
 ?>
