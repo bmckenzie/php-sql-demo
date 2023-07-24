@@ -1,0 +1,21 @@
+ALTER TABLE complaints
+
+DROP COLUMN id ,
+DROP COLUMN Date_received ,
+DROP COLUMN Product ,
+DROP COLUMN Sub_product  ,
+DROP COLUMN Issue  ,
+DROP COLUMN Sub_issue  ,
+DROP COLUMN Consumer_complaint_narrative  ,
+DROP COLUMN Company_public_response  ,
+DROP COLUMN Company  ,
+DROP COLUMN State  ,
+DROP COLUMN ZIP_code  ,
+DROP COLUMN Tags  ,
+DROP COLUMN Consumer_consent_provided  ,
+DROP COLUMN Submitted_via  ,
+DROP COLUMN Date_sent_to_company ,
+DROP COLUMN Company_response_to_consumer  ,
+DROP COLUMN Timely_response  ,
+DROP COLUMN Consumer_disputed  ,
+DROP COLUMN Complaint_ID  ;
